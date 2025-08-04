@@ -1,12 +1,41 @@
-# React + Vite
+# Quizerr 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Quizerr is a sleek and interactive Quiz Application built using **React JS**. It allows users to test their knowledge across various topics with multiple-choice questions and real-time score tracking.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🧠 Multiple-choice questions
+- ✅ Real-time answer validation
+- 📊 Score tracking
+- 🔄 Play again / reset quiz
+- 📱 Responsive design
+- ⚡ Fast and lightweight
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React JS**
+- **HTML5 / CSS3**
+- **JavaScript (ES6+)**
+- **React Hooks (`useState`, `useEffect`)**
+
+---
+
+## 📸 Demo
+
+> A live demo will be added soon. Stay tuned!
+
+---
+
+## 🧩 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/quizerr.git
+cd quizerr
