@@ -26,7 +26,7 @@ Quizerr is a sleek and interactive Quiz Application built using **React JS**. It
 
 ## 📸 Demo
 
-> A live demo will be added soon. Stay tuned!
+<img width="1021" height="841" alt="image" src="https://github.com/user-attachments/assets/bc8228bf-ce3f-42dd-ad75-dfac151da200" />
 
 ---
 
