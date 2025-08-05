@@ -1,14 +1,25 @@
 .container {
-    width: 640px;
+    width: 650px;
     margin: auto;
-    margin-top: 150px;
+    margin-top: 50px;
     background: white;
     color: #262626;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
     border-radius: 10px;
-    padding: 40px 50px;
+    padding: 25px 50px;
+}
+
+.head {
+    font-size: 40px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.subhead {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .container hr {
@@ -27,7 +38,7 @@
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     align-items: center;
-    height: 70px;
+    height: 50px;
     padding-left: 15px;
     border: 1px solid #686868;
     border-radius: 8px;
@@ -60,4 +71,17 @@
 .container .wrong {
     background: #FFEBEB;
     border-color: #FF4A4A;
+}
+
+.credit {
+    height: 20px;
+    margin-top: 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.credit a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #FF4A4A;
 }
